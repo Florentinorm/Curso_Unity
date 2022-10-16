@@ -1,13 +1,13 @@
-# Creación de Video Juego
+# Creación de Video Juegos
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://www.industriaanimacion.com///wp-content/uploads/2021/11/4-6.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Short description
+    Breve descripción
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://reponame/issues/new?template=bug.md">Reportar un error</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Solicitar función</a>
   </p>
 </p>
 
@@ -34,27 +34,28 @@
 
 ## Código Fuente
 
-* Lección 1
+* Lección 1 - Player Control
+  * > [Unit 1 - Player Control](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Unit%201%20-%20Player%20Control)
+  * > [Challenge 1 - Plane Programming](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Challenge%201%20-%20Plane%20Programming)
+  * > [Lab 1 - Project Design Document](https://drive.google.com/file/d/1R6tkGhJorwGi9YTQ3RLckeeuJ72jfLJU/view?usp=sharing)
+  * > [Quiz 1](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%201%20-%20Player%20Control/Quiz%201%20-%20Unit%201%20-%20Player%20Control.png)
+
+* Lección 2 - Basic Game Play
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 2
+* Lección 3 - Sound and Efffects
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 3
+* Lección 4 - GamePlay Mechanics
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
+* Lección 5 - User Interface
   * > Tutorial
   * > Laboratorio
   * > Desafío
@@ -66,7 +67,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Ramírez Balderas Florentino 
 
 ## Copyright
 Derechos Reservados 2022
