@@ -46,28 +46,28 @@
   * > [Desafío 2 - Play Fetch](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Challenge%202%20-%20Play%20Fetch)
   * > [Video 2 - Play Fetch](https://drive.google.com/file/d/1BkZQpGCWyH1L0HM8wkKRgplz04OJhoEt/view?usp=sharing)
   * > [Laboratorio 2 - New Project with Primitives](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Lab%202%20-%20New%20Project%20with%20Primitives)
-  * > [Prueba 2](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Quiz%202%20-%20Unit%202%20-%20Basic%20Gameplay.png)
+  * > [Prueba 2](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Quiz%202%20-%20Unit2%20-%20Basic%20Gameplay.png)
 
 * Lección 3 - Sound and Efffects
-  * > [Unidad]()
-  * > [Desafío]()
-  * > [Laboratorio]()
-  * > [Video]()
-  * > [Prueba]()
+  * > Unidad
+  * > Desafío
+  * > Video
+  * > Laboratorio
+  * > Prueba
 
 * Lección 4 - GamePlay Mechanics
-  * > [Unidad]()
-  * > [Desafío]()
-  * > [Laboratorio]()
-  * > [Video]()
-  * > [Prueba]()
+  * > Unidad
+  * > Desafío
+  * > Video
+  * > Laboratorio
+  * > Prueba
 
 * Lección 5 - User Interface
-  * > [Unidad]()
-  * > [Desafío]()
-  * > [Laboratorio]()
-  * > [Video]()
-  * > [Prueba]()
+  * > Unidad
+  * > Desafío
+  * > Video
+  * > Laboratorio
+  * > Prueba
 
 * VideoJuego
 
