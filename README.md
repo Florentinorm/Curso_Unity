@@ -35,31 +35,40 @@
 ## Código Fuente
 
 * Lección 1 - Player Control
-  * > [Unit 1 - Player Control](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Unit%201%20-%20Player%20Control)
-  * > [Challenge 1 - Plane Programming](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Challenge%201%20-%20Plane%20Programming)
-  * > [Lab 1 - Project Design Document](https://drive.google.com/file/d/1R6tkGhJorwGi9YTQ3RLckeeuJ72jfLJU/view?usp=sharing)
-  * > [Quiz 1](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%201%20-%20Player%20Control/Quiz%201%20-%20Unit%201%20-%20Player%20Control.png)
+  * > [Unidad 1 - Player Control](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Unit%201%20-%20Player%20Control)
+  * > [Desafío 1 - Plane Programming](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Challenge%201%20-%20Plane%20Programming)
+  * > [Video 1 - Plane Programming](https://drive.google.com/file/d/1sdTbtyLJXs9oKxYURwrJO58VVyJozHHB/view?usp=sharing)
+  * > [Laboratorio 1 - Project Design Document](https://drive.google.com/file/d/1R6tkGhJorwGi9YTQ3RLckeeuJ72jfLJU/view?usp=sharing)
+  * > [Prueba 1](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%201%20-%20Player%20Control/Quiz%201%20-%20Unit%201%20-%20Player%20Control.png)
 
 * Lección 2 - Basic Game Play
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Unidad 2 - Basic Gameplay](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Unit%202%20-%20Basic%20Gameplay)
+  * > [Desafío 2 - Play Fetch](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Challenge%202%20-%20Play%20Fetch)
+  * > [Video 2 - Play Fetch](https://drive.google.com/file/d/1BkZQpGCWyH1L0HM8wkKRgplz04OJhoEt/view?usp=sharing)
+  * > [Laboratorio 2 - New Project with Primitives](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Lab%202%20-%20New%20Project%20with%20Primitives)
+  * > [Prueba 2](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Quiz%202%20-%20Unit%202%20-%20Basic%20Gameplay.png)
+
 * Lección 3 - Sound and Efffects
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Unidad]()
+  * > [Desafío]()
+  * > [Laboratorio]()
+  * > [Video]()
+  * > [Prueba]()
+
 * Lección 4 - GamePlay Mechanics
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Unidad]()
+  * > [Desafío]()
+  * > [Laboratorio]()
+  * > [Video]()
+  * > [Prueba]()
+
 * Lección 5 - User Interface
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Unidad]()
+  * > [Desafío]()
+  * > [Laboratorio]()
+  * > [Video]()
+  * > [Prueba]()
+
 * VideoJuego
 
 ## Planificación
