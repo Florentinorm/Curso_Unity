@@ -49,9 +49,9 @@
   * > [Prueba 2](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Quiz%202%20-%20Unit2%20-%20Basic%20Gameplay.png)
 
 * Lección 3 - Sound and Efffects
-  * > [Tutorial 3](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Unit%203%20-%20Sound%20and%20Efffects)
-  * > Desafío
-  * > Video
+  * > [Tutorial 3 - Sound and Efffects ](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Unit%203%20-%20Sound%20and%20Efffects)
+  * > [Desafío 3 - Balloons, Bombs, & Booleans]()
+  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1I8mAmhb6XU6_lWaiPIn116uVsCBic-vX/view?usp=sharing)
   * > Laboratorio
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
