@@ -49,7 +49,7 @@
   * > [Prueba 2](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%202%20-%20Basic%20Game%20Play/Quiz%202%20-%20Unit2%20-%20Basic%20Gameplay.png)
 
 * Lección 3 - Sound and Efffects
-  * > [Tutorial 3](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Unit%203%20-%20Sound%20and%20Efffects/)
+  * > [Tutorial 3](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Unit%203%20-%20Sound%20and%20Efffects)
   * > Desafío
   * > Video
   * > Laboratorio
