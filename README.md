@@ -10,7 +10,6 @@
 
 
 ## Contenido
-- [Introducción](#introducción)
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
@@ -35,7 +34,7 @@
   * > [Tutorial 3 - Sound and Efffects ](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Unit%203%20-%20Sound%20and%20Efffects)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Challenge%203%20-%20Balloons%2C%20Bombs%2C%20%26%20Booleans)
   * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1I8mAmhb6XU6_lWaiPIn116uVsCBic-vX/view?usp=sharing)
-  * > [Laboratorio 3 - Player Control]()
+  * > [Laboratorio 3 - Player Control](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Lab%203%20-%20Player%20Control)
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
 * Lección 5 - User Interface
