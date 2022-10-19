@@ -3,37 +3,20 @@
     <img src="https://www.industriaanimacion.com///wp-content/uploads/2021/11/4-6.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Breve descripción
+    En esta misión de programador júnior, ampliará su aprendizaje fundamental y creará interacciones personalizadas básicas con Unity.   A medida que complete cuatro proyectos prácticos, explorará una variedad de conceptos que respaldan la funcionalidad básica, incluidos bucles, tipos de datos, referencias, comunicación de scripts e interfaz de usuario.   Para completar la misión, creará una aplicación prototipo simple para su cartera.   Al final de esta misión, habrá adquirido todas las habilidades necesarias para realizar el  de Unity Certified User: Programmer  examen de certificación  . 
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Reportar un error</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Solicitar función</a>
   </p>
 </p>
 
 
 ## Contenido
-
 - [Introducción](#introducción)
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
 - [Copyright](#copyright)
 
-
-## Introducción
-
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
-
 ## Código Fuente
-
 * Lección 1 - Player Control
   * > [Tutorial 1 - Player Control](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Unit%201%20-%20Player%20Control)
   * > [Desafío 1 - Plane Programming](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%201%20-%20Player%20Control/Challenge%201%20-%20Plane%20Programming)
@@ -50,17 +33,10 @@
 
 * Lección 3 - Sound and Efffects
   * > [Tutorial 3 - Sound and Efffects ](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Unit%203%20-%20Sound%20and%20Efffects)
-  * > [Desafío 3 - Balloons, Bombs, & Booleans]()
+  * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Challenge%203%20-%20Balloons%2C%20Bombs%2C%20%26%20Booleans)
   * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1I8mAmhb6XU6_lWaiPIn116uVsCBic-vX/view?usp=sharing)
-  * > Laboratorio
+  * > [Laboratorio 3 - Player Control]()
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
-
-* Lección 4 - GamePlay Mechanics
-  * > Tutorial
-  * > Desafío
-  * > Video
-  * > Laboratorio
-  * > Prueba
 
 * Lección 5 - User Interface
   * > Tutorial
@@ -68,12 +44,6 @@
   * > Video
   * > Laboratorio
   * > Prueba
-
-* VideoJuego
-
-## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
 Ramírez Balderas Florentino 
