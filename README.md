@@ -11,8 +11,8 @@
 
 ## Contenido
 - [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
-- [Autores](#autores)
+- [Autores](#autor)
+- [Lenguaje y Herramientas](#lenguaje-y-herramientas)
 - [Copyright](#copyright)
 
 ## Código Fuente
@@ -44,8 +44,11 @@
   * > Laboratorio
   * > Prueba
 
-## Autores
+## Autor
 Ramírez Balderas Florentino 
+
+## Lenguaje y Herramientas
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ## Copyright
 Derechos Reservados 2022
