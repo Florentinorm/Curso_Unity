@@ -38,11 +38,10 @@
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
 * Lección 5 - User Interface
-  * > Tutorial
-  * > Desafío
-  * > Video
-  * > Laboratorio
-  * > Prueba
+  * > [Tutorial 5 - User Interface](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Unit%205%20-%20User%20Interface)
+  * > [Desafío 5 - Whack-a-Food](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Challenge%205%20-%20Whack-a-Food)
+  * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1j657hBBIsBzMIORCM_QOX_3kBnUrkTs9/view?usp=sharing)
+  * > [Prueba 5](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%205%20-%20User%20Interface/Quiz%205%20-%20Lecci%C3%B3n%205%20-%20User%20Interface.png)
 
 ## Autor
 Ramírez Balderas Florentino 
