@@ -37,6 +37,10 @@
   * > [Laboratorio 3 - Player Control](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Lab%203%20-%20Player%20Control)
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
+* Lección 4 - GamePlay Mechanics
+  * > [Laboratorio 4 - Basic Gameplay]()
+
+
 * Lección 5 - User Interface
   * > [Tutorial 5 - User Interface](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Unit%205%20-%20User%20Interface)
   * > [Desafío 5 - Whack-a-Food](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Challenge%205%20-%20Whack-a-Food)
