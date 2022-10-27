@@ -38,7 +38,7 @@
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
 * Lección 4 - GamePlay Mechanics
-  * > [Laboratorio 4 - Basic Gameplay]()
+  * > [Laboratorio 4 - Basic Gameplay](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Lab%204%20-%20Basic%20Gameplay)
 
 
 * Lección 5 - User Interface
