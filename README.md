@@ -48,6 +48,9 @@
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Lab%205%20-%20Swap%20out%20your%20Assets)
   * > [Prueba 5](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%205%20-%20User%20Interface/Quiz%205%20-%20Lecci%C3%B3n%205%20-%20User%20Interface.png)
 
+* Space Shooter
+  * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
+
 ## Autor
 Ramírez Balderas Florentino 
 
