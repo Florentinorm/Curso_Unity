@@ -47,7 +47,12 @@
   - Escena del juego
     - ![scene-game](img/scene-game.png)
 
-- Plan de creación de VideoJuego.
+- Plan de creación de VideoJuego
+  - [Tablero en Trello](https://trello.com/b/YE2REfxC/space-shooter)
+
+- Autores
+  - Ramírez Balderas Florentino - 1219100383
+  - Hernández Salazar Diego Joan - 1219100490
 
 ## Código Fuente
 * Lección 1 - Player Control
