@@ -3,17 +3,51 @@
     <img src="https://www.industriaanimacion.com///wp-content/uploads/2021/11/4-6.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    <h2>Creación de videojuegos</h2>
+    Creación de videojuegos curso Junior Programmer
     <br>
   </p>
 </p>
 
 
 ## Contenido
+- [Introducción](#introducción)
 - [Código Fuente](#código-fuente)
 - [Autores](#autor)
 - [Lenguaje y Herramientas](#lenguaje-y-herramientas)
 - [Copyright](#copyright)
+
+## Introducción
+
+- Nombre del proyecto
+  - Space Shooter
+
+- Objetivo
+  - Derribar asteroides sin dejar que estos nos golpean, y evitar destruir naves amigas
+
+- Plataforma ,Género, Clasificación, Personajes, Escenario.
+  - Plataforma: 
+    - Desktop
+  - Género:
+    - Aventura
+    - Disparos
+  - Clasificación:
+    - Everyone E, contenido apto para todas las edades  
+  - Personajes:
+    - Nave nave Discovery One
+  - Escenario:
+    - Espacio exterior 
+
+- Historia
+  - Es el año 3050, la humanidad tuvo que escapar del planeta tierra y en busca de un nuevo hogar, la nave Discovery One tiene la misión de encontrar un lugar seguro para los habitantes del planeta tierra, aventurándose dentro del espacio y esquivando todo tipo adversidades que se encuentre en su camino. 
+
+- Reglas de Juego.
+  - El propósito del player (Nave) es destruir los objetos (Meteoritos) que van hacia la posición Z de la escena, evitando que ambos choquen, en caso de suceder una collision entre el meteorito y la nave espacial se terminará el juego. Habrá dos tipos de objetos Meteoritos y Naves amigas,  el primero (Meteorito) será de tipo acumulador, el cuál aumentará los puntos de 5 en 5. El segundo (Nave conocido) será de tipo desacumulativo, el cuál disminuirá los puntos de 2 en 2. En caso de llegar a los 100 puntos se ganará la partida.
+
+- Pantallas de Juego
+  - Escena del juego
+    - ![scene-game](img/scene-game.png)
+
+- Plan de creación de VideoJuego.
 
 ## Código Fuente
 * Lección 1 - Player Control
@@ -48,9 +82,6 @@
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1j657hBBIsBzMIORCM_QOX_3kBnUrkTs9/view?usp=sharing)
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Lab%205%20-%20Swap%20out%20your%20Assets)
   * > [Prueba 5](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%205%20-%20User%20Interface/Quiz%205%20-%20Lecci%C3%B3n%205%20-%20User%20Interface.png)
-
-* Space Shooter
-  * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
 
 ## Autor
 Ramírez Balderas Florentino 
