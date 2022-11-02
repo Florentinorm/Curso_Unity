@@ -33,7 +33,7 @@
   - Clasificación:
     - Everyone E, contenido apto para todas las edades  
   - Personajes:
-    - Nave nave Discovery One
+    - Nave Discovery One
   - Escenario:
     - Espacio exterior 
 
