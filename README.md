@@ -1,17 +1,12 @@
 # Creación de Video Juegos
 <p align="center">
     <img src="https://ak.picdn.net/shutterstock/videos/1055066978/thumb/1.jpg" alt="Logo" width=1200 height=300>
-
-  <p align="center">
-    ## Space Shooter
-    El jugador navega una nave espacial a través de un universo en niveles verticales de desplazamiento y enemigos desafiantes, tratando de destruirlos o evitarlos.
-    * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
     <br>
   </p>
 </p>
 
 ## Space Shooter
-    El jugador navega una nave espacial a través de un universo en niveles verticales de desplazamiento y enemigos desafiantes, tratando de destruirlos o evitarlos.
+  - El jugador navega una nave espacial a través de un universo en niveles verticales de desplazamiento y enemigos desafiantes tratando de destruirlos o evitarlos.
   * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
 
 ## Contenido
