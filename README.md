@@ -1,13 +1,18 @@
 # Creación de Video Juegos
 <p align="center">
-    <img src="https://www.industriaanimacion.com///wp-content/uploads/2021/11/4-6.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://ak.picdn.net/shutterstock/videos/1055066978/thumb/1.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    En esta misión de programador júnior, ampliará su aprendizaje fundamental y creará interacciones personalizadas básicas con Unity.   A medida que complete cuatro proyectos prácticos, explorará una variedad de conceptos que respaldan la funcionalidad básica, incluidos bucles, tipos de datos, referencias, comunicación de scripts e interfaz de usuario.   Para completar la misión, creará una aplicación prototipo simple para su cartera.   Al final de esta misión, habrá adquirido todas las habilidades necesarias para realizar el  de Unity Certified User: Programmer  examen de certificación  . 
+    ## Space Shooter
+    El jugador navega una nave espacial a través de un universo en niveles verticales de desplazamiento y enemigos desafiantes, tratando de destruirlos o evitarlos.
+    * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
     <br>
   </p>
 </p>
 
+## Space Shooter
+    El jugador navega una nave espacial a través de un universo en niveles verticales de desplazamiento y enemigos desafiantes, tratando de destruirlos o evitarlos.
+  * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
 
 ## Contenido
 - [Código Fuente](#código-fuente)
@@ -38,7 +43,7 @@
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
 * Lección 4 - GamePlay Mechanics
-  * > [Desafío 4 - Soccer Scripting]()
+  * > [Desafío 4 - Soccer Scripting](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Challenge%204%20-%20Soccer%20Scripting)
   * > [Laboratorio 4 - Basic Gameplay](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Lab%204%20-%20Basic%20Gameplay)
 
 
@@ -49,8 +54,6 @@
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Lab%205%20-%20Swap%20out%20your%20Assets)
   * > [Prueba 5](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%205%20-%20User%20Interface/Quiz%205%20-%20Lecci%C3%B3n%205%20-%20User%20Interface.png)
 
-* Space Shooter
-  * > [Documento de diseño del proyecto](https://docs.google.com/document/d/1WzagRw2U7oY4eAUA6eFMaBPmHoLrkz6q/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
 
 ## Autor
 Ramírez Balderas Florentino 
