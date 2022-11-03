@@ -77,7 +77,8 @@
   * > [Prueba 3](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%203%20-%20Sound%20and%20Efffects/Quiz%203%20-%20Unit%203%20-%20Sound%20and%20Efffects.png)
 
 * Lección 4 - GamePlay Mechanics
-  * > [Desafío 4 - Soccer Scripting]()
+  * > [Tutorial 4 - Gameplay Mechanics]()
+  * > [Desafío 4 - Soccer Scripting](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Challenge%204%20-%20Soccer%20Scripting)
   * > [Laboratorio 4 - Basic Gameplay](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Lab%204%20-%20Basic%20Gameplay)
 
 
