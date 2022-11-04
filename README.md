@@ -48,7 +48,8 @@
     - ![scene-game](img/scene-game.png)
 
 - Plan de creación de VideoJuego
-  - [Tablero en Trello](https://trello.com/b/YE2REfxC/space-shooter)
+  - [Tablero Space Shooter](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
+  - ![gant](img/gant.png)
 
 - Autores
   - Ramírez Balderas Florentino - 1219100383
