@@ -79,6 +79,7 @@
 * Lección 4 - GamePlay Mechanics
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Unit%204%20-%20Gameplay%20Mechanics)
   * > [Desafío 4 - Soccer Scripting](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Challenge%204%20-%20Soccer%20Scripting)
+  * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/1oxvGdIbeUxvKnpMDuxrTPWLVlm_dCQth/view?usp=share_link)
   * > [Laboratorio 4 - Basic Gameplay](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Lab%204%20-%20Basic%20Gameplay)
   * > [Prueba 4](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%204%20-%20GamePlay%20Mechanics/Quiz%204.png)
 
