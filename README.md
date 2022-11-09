@@ -69,7 +69,7 @@
   - ![gant](img/gant.png)
 
 - Configuración del entorno para el juego 
-  - **IMPORTANTE:** Para tener una mejor experiencia es necesario agregar un nuevo aspecto, por lo que se recomienda ir al apartado de **Game** después dirigirse a **Free Aspect** y oprimir el símbolo de **+**, posteriormente agregaremos uno nuevo **Label** con el nombre que sea recomendamos ** Space Shooter** después el **Width & Height** pondremos **600 x 900**
+  - **IMPORTANTE:** Para tener una mejor experiencia es necesario agregar un nuevo aspecto, por lo que se recomienda ir al apartado de **Game** después dirigirse a **Free Aspect** y oprimir el símbolo de **+**, posteriormente agregaremos uno nuevo **Label** con el nombre que sea recomendamos **Space Shooter** después el **Width & Height** pondremos **600 x 900**
   - [Manual](img/Manual.png)
 
 - Versiones 
@@ -82,7 +82,7 @@
     - Se agregaron las animaciones de explosiones 
     - Se agrego el sonido 
     - Se agregaron los scripts que destruyen a los asteroides y a la nave 
-    - [Space Shooter V1]()
+    - [Space Shooter V1](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Shooter/Space%20Shooter%20V1.unitypackage)
 
 - Autores
   - Ramírez Balderas Florentino - 1219100383
