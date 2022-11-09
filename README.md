@@ -28,20 +28,37 @@
   - Plataforma: 
     - Desktop
   - Género:
-    - Aventura
-    - Disparos
+    - Aventura y Disparos
   - Clasificación:
     - Everyone E, contenido apto para todas las edades  
   - Personajes:
-    - Nave Discovery One
+    - Nave Destructor Estelar, Nave de Control de Droides clase Lucrehulk
   - Escenario:
-    - Espacio exterior 
+    - Espacio exterior, dentro de la nébula darkgreen
+  - Tipo de Juego
+    - 3D
 
 - Historia
-  - Es el año 3050, la humanidad tuvo que escapar del planeta tierra y en busca de un nuevo hogar, la nave Discovery One tiene la misión de encontrar un lugar seguro para los habitantes del planeta tierra, aventurándose dentro del espacio y esquivando todo tipo adversidades que se encuentre en su camino. 
+  - Es el año 3074, en el planeta Xandar dentro de la nébula darkgreen ahí se encuentra lo más preciado del universo la estrella del alma, el cual es de altamente valor, donde los Chandilar logran robar esta preciada reliquia, huyen dentro de la nave llamada Destructor Estelar llamada así por sus gran tamaño, y su poder de destrucción que tan solo viéndola es de imponer respeto, los Chandilar se tienen que enfrentar a muchas adversidades como la lluvia de meteoritos que es una característica de la nébula darkgreen, pero no solo de eso se deben de preocupar si no también deben escapar de la guardia galáctica donde tienen naves es la de Control de Droides clase Lucrehulk, caracterizada por su forma en punto y sus destructores rayos lazer los cuales deben de evitar a toda costa. 
 
 - Reglas de Juego.
-  - El propósito del player (Nave) es destruir los objetos (Meteoritos) que van hacia la posición Z de la escena, evitando que ambos choquen, en caso de suceder una collision entre el meteorito y la nave espacial se terminará el juego. Habrá dos tipos de objetos Meteoritos y Naves amigas,  el primero (Meteorito) será de tipo acumulador, el cuál aumentará los puntos de 5 en 5. El segundo (Nave conocido) será de tipo desacumulativo, el cuál disminuirá los puntos de 2 en 2. En caso de llegar a los 100 puntos se ganará la partida.
+  - El jugador debe de destruir o esquivar los asteroides, así como las naves
+  - El juego termina si:
+    - Si el jugador chocado por un asteroide
+    - Si es impactado por un rayo láser de las naves
+    - Si el jugador tiene una colisión con una nave el jugo se termina
+  - Puntuación:
+    - Cada meteorito destruido valdrá 5 puntos
+    - Cada nave destruida valdrá 10 puntos
+  - Disparos
+	  - Solo tendrá 4 disparos por segundo
+  - Vidas:
+	  - 1 vida
+  - Dificultad 
+	  - Acumulativa (+3 asteroides cada ronda)
+	  - Tiempo de espera de 6 segundos entre ronda
+	  - Probabilidad de 45% que aparezca alguna nave
+
 
 - Pantallas de Juego
   - Escena del juego
