@@ -46,7 +46,7 @@
   - El juego termina si:
     - Si el jugador chocado por un asteroide
     - Si es impactado por un rayo láser de las naves
-    - Si el jugador tiene una colisión con una nave el jugo se termina
+    - Si el jugador tiene una colisión con una nave el juego se termina
   - Puntuación:
     - Cada meteorito destruido valdrá 5 puntos
     - Cada nave destruida valdrá 10 puntos
@@ -68,9 +68,26 @@
   - [Tablero Space Shooter](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
   - ![gant](img/gant.png)
 
+- Configuración del entorno para el juego 
+  - **IMPORTANTE:** Para tener una mejor experiencia es necesario agregar un nuevo aspecto, por lo que se recomienda ir al apartado de **Game** después dirigirse a **Free Aspect** y oprimir el símbolo de **+**, posteriormente agregaremos uno nuevo **Label** con el nombre que sea recomendamos ** Space Shooter** después el **Width & Height** pondremos **600 x 900**
+  - [Manual](img/Manual.png)
+
+- Versiones 
+  - Versión 1: 
+    - Se agrego el plano con una textura de nébula 
+    - Se agrego la nave igual que se hace que pueda moverse sin salirse del plano además de disparar
+    - Se agregaron los meteoritos y cada uno tiene un movimiento diferente
+    - Espaunean los meteoritos 
+    - Se destruyen todos los objetos que salen del cuadro 
+    - Se agregaron las animaciones de explosiones 
+    - Se agrego el sonido 
+    - Se agregaron los scripts que destruyen a los asteroides y a la nave 
+    - [Space Shooter V1]()
+
 - Autores
   - Ramírez Balderas Florentino - 1219100383
   - Hernández Salazar Diego Joan - 1219100490
+
 
 ## Código Fuente
 * Lección 1 - Player Control
