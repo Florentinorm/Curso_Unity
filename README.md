@@ -19,7 +19,7 @@
 ## Introducción
 
 - Nombre del proyecto
-  - Space Shooter
+  - Space Escape
 
 - Objetivo
   - Derribar asteroides sin dejar que estos nos golpean, y evitar destruir naves amigas
@@ -83,6 +83,10 @@
     - Se agrego el sonido 
     - Se agregaron los scripts que destruyen a los asteroides y a la nave 
     - [Space Shooter V1](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Shooter/Space%20Shooter%20V1.unitypackage)
+  - Versión 2:
+    - Se agrego la puntuación (Score)
+    - Se agrego el Juego terminado (Game Over)
+    - Se agrego una manera de reiniciar el juego
 
 - Autores
   - Ramírez Balderas Florentino - 1219100383
