@@ -48,16 +48,22 @@
     - Si es impactado por un rayo láser de las naves
     - Si el jugador tiene una colisión con una nave el juego se termina
   - Puntuación:
-    - Cada meteorito destruido valdrá 5 puntos
-    - Cada nave destruida valdrá 10 puntos
-  - Disparos
+    - Destrucción de:
+      - Asteroide grande   = -2  puntos
+      - Ateroide mediano   = +3  puntos
+      - Asteroide pequeño  = +5  puntos
+      - Nave enemiga       = +10 puntos
+  - Disparos:
 	  - Solo tendrá 4 disparos por segundo
+  - Control del juego
+    - [Ver como se juega](img/control-del-juego.png)
   - Vidas:
 	  - 1 vida
   - Dificultad 
-	  - Acumulativa (+3 asteroides cada ronda)
-	  - Tiempo de espera de 6 segundos entre ronda
-	  - Probabilidad de 45% que aparezca alguna nave
+	  - Acumulativa (+5 asteroides cada ronda)
+    - Velocidad acumulativa (+5 en cada ronda)
+	  - Tiempo de espera de 5 segundos entre ronda
+	  - Probabilidad de 45% que aparezca alguna nave enemiga
 
 
 - Pantallas de Juego
@@ -65,7 +71,7 @@
     - ![scene-game](img/scene-game.png)
 
 - Plan de creación de VideoJuego
-  - [Tablero Space Shooter](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
+  - [Tablero Space Escape](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
   - ![gant](img/gant.png)
 
 - Configuración del entorno para el juego 
@@ -82,13 +88,20 @@
     - Se agregaron las animaciones de explosiones 
     - Se agrego el sonido 
     - Se agregaron los scripts que destruyen a los asteroides y a la nave 
-    - [Space Shooter V1](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Shooter/Space%20Shooter%20V1.unitypackage)
+    - [Space Escape V1](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Shooter/Space%20Shooter%20V1.unitypackage)
+
   - Versión 2:
     - Se agrego la puntuación (Score)
     - Se agrego el Juego terminado (Game Over)
     - Se agrego una manera de reiniciar el juego
+    - Se agregaron nuevos asteroides con puntuación y velocidades distintas
+    - Se implemento la funcionalidad que con cada ronda aumenten (+5) los asteroides
+    - A cada tipo de asteroide se le asignó un valor
+    - Se implemento la velocidad de los asteroides (+5) conforme cada ronda pase
+    - [Space Escape V2]()
 
-- Autores
+
+- Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
   - Hernández Salazar Diego Joan - 1219100490
 
