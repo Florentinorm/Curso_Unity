@@ -56,7 +56,7 @@
   - Disparos:
 	  - Solo tendrá 4 disparos por segundo
   - Control del juego
-    - [Ver como se juega](img/control-del-juego.png)
+    - [Ver controles del juego](img/control-del-juego.png)
   - Vidas:
 	  - 1 vida
   - Dificultad 
@@ -98,7 +98,7 @@
     - Se implemento la funcionalidad que con cada ronda aumenten (+5) los asteroides
     - A cada tipo de asteroide se le asignó un valor
     - Se implemento la velocidad de los asteroides (+5) conforme cada ronda pase
-    - [Space Escape V2]()
+    - [Space Escape V2](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V2.unitypackage)
 
 
 - Autores del juego "Space Escape"
