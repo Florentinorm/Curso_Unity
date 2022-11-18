@@ -100,6 +100,15 @@
     - Se implemento la velocidad de los asteroides (+5) conforme cada ronda pase
     - [Space Escape V2](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V2.unitypackage)
 
+  - Versión 3:
+    - Se crea el scroll parallax, que hace que el fondo tenga movimiento
+    - Se agregaron estrellas al escenario
+    - Se creo la nave enemiga
+    - Se creo la manera en que pueda disparar
+    - [Space Escape V3]()
+
+
+
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
