@@ -49,9 +49,9 @@
     - Si el jugador tiene una colisión con una nave el juego se termina
   - Puntuación:
     - Destrucción de:
-      - Asteroide grande   = -2  puntos
-      - Ateroide mediano   = +3  puntos
-      - Asteroide pequeño  = +5  puntos
+      - Mina   = +1  puntos
+      - Ateroide de hielo   = +3  puntos
+      - Asteroide de lava  = +5  puntos
       - Nave enemiga       = +10 puntos
   - Disparos:
 	  - Solo tendrá 4 disparos por segundo
@@ -63,7 +63,7 @@
 	  - Acumulativa (+5 asteroides cada ronda)
     - Velocidad acumulativa (+5 en cada ronda)
 	  - Tiempo de espera de 5 segundos entre ronda
-	  - Probabilidad de 45% que aparezca alguna nave enemiga
+	  - Probabilidad de 14% que aparezca alguna nave enemiga
 
 
 - Pantallas de Juego
@@ -105,10 +105,15 @@
     - Se agregaron estrellas al escenario
     - Se creo la nave enemiga
     - Se creo la manera en que pueda disparar
-    - [Space Escape V3]()
+    - [Space Escape V3](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V3.unitypackage)
 
+  - Versión 4:
+    - Se agregaron nuevos assets 
+    - Se cambio el diseño de las naves
+    - Se agregaron minas, asteroides de lava y hielo 
+    - Se cambio el fonde de la nébula por uno de mas colores
 
-
+    - [Space Escape V4](https://mega.nz/file/D6BklCwR#plDInTbegzgmDY6vHTeBpkuySu-2KPFlW9I1kWIl9ls) *Importación desde MEGA, peso estimado 157.6 MB*
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
@@ -160,3 +165,4 @@ Ramírez Balderas Florentino
 
 ## Copyright
 Derechos Reservados 2022
+
