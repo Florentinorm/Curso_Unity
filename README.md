@@ -112,7 +112,8 @@
     - Se cambio el diseño de las naves
     - Se agregaron minas, asteroides de lava y hielo 
     - Se cambio el fonde de la nébula por uno de mas colores
-    - [Space Escape V4](https://mega.nz/file/D6BklCwR#plDInTbegzgmDY6vHTeBpkuySu-2KPFlW9I1kWIl9ls) *(Importación desde MEGA, peso estimado 157.6 MB)*
+    - Se agrego la manera en que las naves enemigas puedan moverse dentro del plano
+    - [Space Escape V4](https://mega.nz/file/uj4GFR6K#S1npGcycgjfnHDc5N_l1IfArCyzKDpVbklS-29O25JE) *(Importación desde MEGA, peso estimado 157 MB)*
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
