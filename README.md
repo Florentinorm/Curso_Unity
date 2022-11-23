@@ -108,7 +108,6 @@
     - [Space Escape V3](https://github.com/Florentinorm/Curso_Unity/blob/main/Space%20Escape/Space%20Escape%20V3.unitypackage)
 
   - Versión 4:
-    - Se agregaron nuevos assets
     - Se cambio el diseño de las naves
     - Se agregaron minas, asteroides de lava y hielo 
     - Se cambio el fonde de la nébula por uno de mas colores
