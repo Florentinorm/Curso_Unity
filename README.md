@@ -117,12 +117,13 @@
     - Se agrego la manera en que las naves enemigas puedan moverse dentro del plano
     - [Space Escape V4](https://mega.nz/file/uj4GFR6K#S1npGcycgjfnHDc5N_l1IfArCyzKDpVbklS-29O25JE) *(Importación desde MEGA, peso estimado 157 MB)*
 
-  - Versión 4:
+  - Versión 5:
     - Se agrego la conexión a la Base de Datos
     - Se registra el usuario
     - Se registra su puntuación 
     - Se muestra la tabla con las mejores puntuaciones 
-    - [Space Escape V5](https://mega.nz/file/ajYSEaIA#JayFkmLwxzkSHcUpZgfXIAHvPwklbPQ9R__tx5HfHzg) *(Importación desde MEGA, peso estimado 160 MB)*
+    - Se agrego la UI de inicio
+    - [Space Escape V5](https://mega.nz/file/XzhmmYrT#1SrQIQPiL7AxR6hppJOGqehFJKNVYGMo2x5O6WFOiU4) *(Importación desde MEGA, peso estimado 160 MB)*
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
