@@ -123,7 +123,7 @@
     - Se registra su puntuación 
     - Se muestra la tabla con las mejores puntuaciones 
     - Se agrego la UI de inicio
-    - [Space Escape V5](https://mega.nz/file/XzhmmYrT#1SrQIQPiL7AxR6hppJOGqehFJKNVYGMo2x5O6WFOiU4) *(Importación desde MEGA, peso estimado 160 MB)*
+    - [Space Escape V5](https://mega.nz/file/mzIHDAID#HI96k-HZPMdQuOpC3YOx-gyFFDh4ZMkJ3Sg8L5DSLhk) *(Importación desde MEGA, peso estimado 160 MB)*
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
