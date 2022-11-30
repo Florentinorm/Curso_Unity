@@ -125,6 +125,9 @@
     - Se agrego la UI de inicio
     - [Space Escape V5](https://mega.nz/file/mzIHDAID#HI96k-HZPMdQuOpC3YOx-gyFFDh4ZMkJ3Sg8L5DSLhk) *(Importación desde MEGA, peso estimado 160 MB)*
 
+  - Deploy del juego
+    - [Space Escape - Juego final]()
+
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
   - Hernández Salazar Diego Joan - 1219100490
@@ -166,6 +169,8 @@
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1j657hBBIsBzMIORCM_QOX_3kBnUrkTs9/view?usp=sharing)
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Florentinorm/Curso_Unity/tree/main/Lecci%C3%B3n%205%20-%20User%20Interface/Lab%205%20-%20Swap%20out%20your%20Assets)
   * > [Prueba 5](https://github.com/Florentinorm/Curso_Unity/blob/main/Lecci%C3%B3n%205%20-%20User%20Interface/Quiz%205%20-%20Lecci%C3%B3n%205%20-%20User%20Interface.png)
+
+
 
 ## Autor
 Ramírez Balderas Florentino 
