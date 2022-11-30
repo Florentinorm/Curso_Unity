@@ -49,9 +49,9 @@
     - Si el jugador tiene una colisión con una nave el juego se termina
   - Puntuación:
     - Destrucción de:
-      - Mina   = +1  puntos
-      - Ateroide de hielo   = +3  puntos
-      - Asteroide de lava  = +5  puntos
+      - Ateroide de hielo   = +1  puntos
+      - Asteroide de lava  = +3  puntos
+      - Mina   = +5 puntos
       - Nave enemiga       = +10 puntos
   - Disparos:
 	  - Solo tendrá 4 disparos por segundo
@@ -73,6 +73,9 @@
 - Plan de creación de VideoJuego
   - [Tablero Space Escape](https://sharing.clickup.com/24530945/g/h/qcm01-85/b473a7031a11b6d)
   - ![gant](img/gant.png)
+
+- Presentación 
+  - [Diapositiva del juego](https://docs.google.com/presentation/d/1ocMP9lEPDD4IMZThTxKA5phMRXpEa3Rm/edit?usp=sharing&ouid=104069290293159397537&rtpof=true&sd=true)
 
 - Configuración del entorno para el juego 
   - **IMPORTANTE:** Para tener una mejor experiencia es necesario agregar un nuevo aspecto, por lo que se recomienda ir al apartado de **Game** después dirigirse a **Free Aspect** y oprimir el símbolo de **+**, posteriormente agregaremos uno nuevo **Label** con el nombre que sea recomendamos **Space Shooter** después el **Width & Height** pondremos **600 x 900**
@@ -113,6 +116,13 @@
     - Se cambio el fonde de la nébula por uno de mas colores
     - Se agrego la manera en que las naves enemigas puedan moverse dentro del plano
     - [Space Escape V4](https://mega.nz/file/uj4GFR6K#S1npGcycgjfnHDc5N_l1IfArCyzKDpVbklS-29O25JE) *(Importación desde MEGA, peso estimado 157 MB)*
+
+  - Versión 4:
+    - Se agrego la conexión a la Base de Datos
+    - Se registra el usuario
+    - Se registra su puntuación 
+    - Se muestra la tabla con las mejores puntuaciones 
+    - [Space Escape V5](https://drive.google.com/file/d/1pMhJQFAGLUX1Fn3zrhueeHlH2HuAxys_/view?usp=share_link) *(Importación desde GOOGLE DRIVE, peso estimado 160 MB)*
 
 - Autores del juego "Space Escape"
   - Ramírez Balderas Florentino - 1219100383
